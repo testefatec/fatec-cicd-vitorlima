@@ -9,4 +9,9 @@ paths-ignore:
   - node_modules
   - '**/__pycache__'
   - '**/*.test.py'
+  - '.pytest_cache'
+  - '.git'
+
+# Configurações avançadas (opcional)
+disable-default-queries: false
 
