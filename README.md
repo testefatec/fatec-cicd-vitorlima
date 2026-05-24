@@ -59,6 +59,10 @@ push/pull_request/workflow_dispatch
 - ✅ **Job 3 (Deploy)** → PASSOU
 
 ### Evidência
+<<<<<<< HEAD
+=======
+<img width="1428" height="266" alt="{9E88A740-F39A-4D99-88B6-D1FF4900C593}" src="https://github.com/user-attachments/assets/89329a07-6fb9-4908-a56c-2d4fe7d97a52" />
+>>>>>>> 9cf6bbf360d1fe58d6ee0f71a5ecd86b47f5e31d
 
 
 Acesse: https://github.com/vitorlima1235/fatec-cicd-vitorlima/actions
